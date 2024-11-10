@@ -5,25 +5,29 @@
 
 My projects are built using different techs, some are pure HTML and CSS (the good days of discovering the frontend world), some are spiced with a bit of Javascript and the latest are built with React CRA using 80% jsx.
 I also have two backend project built with Express, and running on Google Cloud Virtual Machines. They run 24/7 thanks to the PM2 package and I used the cors,helmet,bycrypt,and rate-limiter packages for security. All the data is store on a MongoDB database right on the VM.
-My tech stack that I am devoted to continue expanding : 
-🌐 Front-End
-HTML5: ⭐⭐⭐⭐⭐
-CSS3: ⭐⭐⭐⭐⭐
-JavaScript​: ⭐⭐⭐⭐⭐
-React.js: ⭐⭐⭐⭐
-Webpack: ⭐⭐⭐
-💾 Back-End & API
-Node.js: ⭐⭐⭐⭐
-Express.js: ⭐⭐⭐⭐
-REST API: ⭐⭐⭐⭐
-🗄️ Databases & Hosting
-MongoDB: ⭐⭐⭐
-Google Cloud: ⭐⭐⭐
-🔧 Tools & Version Control
-Git: ⭐⭐⭐⭐
-GitHub: ⭐⭐⭐⭐
-VSCode: ⭐⭐⭐⭐⭐
-Command Line: ⭐⭐⭐
+My tech stack that I am devoted to continue expanding :
+
+ <br/>🌐 Front-End :
+- HTML5: ⭐⭐⭐⭐⭐
+- CSS3: ⭐⭐⭐⭐⭐
+- JavaScript​: ⭐⭐⭐⭐⭐
+- React.js: ⭐⭐⭐⭐
+- Webpack: ⭐⭐⭐<br/>
+
+💾 Back-End & API :
+- Node.js: ⭐⭐⭐⭐
+- Express.js: ⭐⭐⭐⭐
+- REST API: ⭐⭐⭐⭐<br/>
+
+🗄️ Databases & Hosting :
+- MongoDB: ⭐⭐⭐
+- Google Cloud: ⭐⭐⭐<br/>
+
+🔧 Tools & Version Control :
+- Git: ⭐⭐⭐⭐
+- GitHub: ⭐⭐⭐⭐
+- VSCode: ⭐⭐⭐⭐⭐
+- Command Line: ⭐⭐⭐<br/>
 
 My next goals : 
 Continue developing open source and personal projects
