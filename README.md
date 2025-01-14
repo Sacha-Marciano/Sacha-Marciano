@@ -1,34 +1,26 @@
 # Sacha-Marciano
- Hi, I am Sacha, an aspiring full stack developer.
- Let's share my learning journey together !
- On my profile you can find the projects I've been working on during my studies, don't hesitate to take a look, you will find all the info in the README :) !
+ Hi, I am Sacha, a full-stack developer with a passion for building impactful applications.
 
-My projects are built using different techs, some are pure HTML and CSS (the good days of discovering the frontend world), some are spiced with a bit of Javascript and the latest are built with React CRA using 80% jsx.
-I also have two backend project built with Express, and running on Google Cloud Virtual Machines. They run 24/7 thanks to the PM2 package and I used the cors,helmet,bycrypt,and rate-limiter packages for security. All the data is store on a MongoDB database right on the VM.
-My tech stack that I am devoted to continue expanding :
+## My Journey
 
- <br/>🌐 Front-End :
-- HTML5: ⭐⭐⭐⭐⭐
-- CSS3: ⭐⭐⭐⭐⭐
-- JavaScript​: ⭐⭐⭐⭐⭐
-- React.js: ⭐⭐⭐⭐
-- Webpack: ⭐⭐⭐<br/>
+What started as a fascination with HTML and CSS during my early days has grown into a deep expertise in full-stack development. I've moved from simple front-end pages to complex, fully-fledged applications that serve real-world needs. My journey reflects a continuous evolution, taking on bigger challenges and pushing the boundaries of what I can create.
 
-💾 Back-End & API :
-- Node.js: ⭐⭐⭐⭐
-- Express.js: ⭐⭐⭐⭐
-- REST API: ⭐⭐⭐⭐<br/>
+## Key Projects
 
-🗄️ Databases & Hosting :
-- MongoDB: ⭐⭐⭐
-- Google Cloud: ⭐⭐⭐<br/>
+### HelpEat
 
-🔧 Tools & Version Control :
-- Git: ⭐⭐⭐⭐
-- GitHub: ⭐⭐⭐⭐
-- VSCode: ⭐⭐⭐⭐⭐
-- Command Line: ⭐⭐⭐<br/>
+One of my proudest achievements is HelpEat, a comprehensive application designed to simplify meal planning and grocery shopping. Built with the MERN stack, HelpEat allows users to share recipes, create weekly eating schedules, and generate shopping lists, making meal preparation seamless and collaborative.
 
-My next goals : 
-Continue developing open source and personal projects
-Learn python
+### Learning Management System (LMS)
+
+I've also developed a full-featured Learning Management System, designed to enhance the educational experience for both students and instructors. This project involved everything from front-end user interfaces to robust back-end functionalities, showcasing my ability to handle end-to-end development.
+
+### Customer Relationship Management (CRM)
+
+Currently, I'm building a CRM system tailored for businesses to manage their customer interactions efficiently. This project highlights my commitment to creating solutions that not only meet but exceed user expectations.
+
+## Let's Connect
+
+I'm constantly exploring new technologies and methodologies to refine my craft. My journey is a testament to my dedication to learning and my passion for development.
+
+Feel free to explore my projects and reach out if you'd like to collaborate or learn more about my work!
